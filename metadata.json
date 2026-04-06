@@ -1,0 +1,5 @@
+{
+  "name": "USB Cable Verifier",
+  "description": "A minimalist utility to verify if your USB cable supports data transfer using the WebUSB API.",
+  "requestFramePermissions": []
+}
