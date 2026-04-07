@@ -551,7 +551,7 @@ export default function App() {
 
         {/* Footer */}
         <footer className="mt-24 pt-8 border-t border-zinc-900 flex flex-col md:flex-row justify-between items-center gap-4 text-zinc-700 text-[10px] font-mono uppercase tracking-[0.2em]">
-          <div>© 2026 USB Cable Verifier Utility</div>
+          <div>© 2026 USB Cable Verifier | <a href="https://thinakaran.dev" target="_blank" rel="noopener noreferrer">Thinakaran Manokaran</a></div>
           <div className="flex gap-6">
             <span>Privacy First</span>
             <span>Open Standard</span>
